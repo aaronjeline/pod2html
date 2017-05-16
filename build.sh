@@ -1,2 +1,2 @@
 #!/bin/bash
-mv pod2html.sh /app/pod2html
+mv pod2html.pl /app/pod2html
